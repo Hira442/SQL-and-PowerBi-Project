@@ -28,7 +28,38 @@ Deadline: We need a preliminary version ASAP.
 
 Please provide an estimated timeline for completion and recommendation on raising prices next year.
 
-Best regards,
+
+
+------------Steps Followed for "Toman Bike Share" Dashboard Development Using SQL and Power BI----------------
+
+Data Cleaning and Linking Using SQL:
+
+Data Import and Structuring: Imported the raw dataset into SQL to ensure data integrity.
+
+Data Cleaning: Cleaned the dataset by removing null values, duplicates, and any inconsistent 
+entries (e.g., incorrect timestamps).
+
+Data Linking: Joined relevant tables using SQL queries to create a unified dataset, linking
+customer demographics, rides, and financial data.
+
+Output to Power BI: Exported the cleaned and structured data from SQL into a format suitable
+for Power BI.
+
+2. Dashboard Development in Power BI:
+
+Data Import: Imported the cleaned SQL data file into Power BI to begin creating the dashboard.
+
+3. Data Visualization and Analysis:
+
+Hourly Revenue Analysis: Visualized hourly revenue patterns using Chart to understand 
+peak times for bike rentals.
+
+Profit and Revenue Trends: Created Chart to track long-term profit and revenue trends
+over time, highlighting key periods of growth or decline.
+
+Rider Demographics:
+Segmented customers by age, gender, and location and analyze which customer groups 
+contributed the most to revenue.
 
 
 -----------------------------------------Recommendation-----------------------------------------------
